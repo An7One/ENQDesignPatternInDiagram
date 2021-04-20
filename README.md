@@ -1,0 +1,1 @@
+Example, notes, and question solutions of <i>Design Pattern in Diagram</i> by Yuki Hiroshi
