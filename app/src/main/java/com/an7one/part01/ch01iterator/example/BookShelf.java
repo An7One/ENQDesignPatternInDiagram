@@ -1,4 +1,4 @@
-package com.an7one.part01.ch01iterator;
+package com.an7one.part01.ch01iterator.example;
 
 public class BookShelf implements Aggregate {
     private final Book[] books;

@@ -1,4 +1,4 @@
-package com.an7one.part01.ch01iterator;
+package com.an7one.part01.ch01iterator.example;
 
 public class BookShelfIterator implements Iterator {
     private final BookShelf bookShelf;
